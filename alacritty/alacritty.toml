@@ -1,0 +1,22 @@
+[env]
+#TERM = "xterm-256color"
+
+[window]
+padding.x = 10
+padding.y = 10
+
+decorations = "Buttonless"
+
+opacity = 0.7
+blur = true
+
+option_as_alt = "Both"
+
+dimensions = { columns = 175, lines = 55 }
+
+position = { x = 325, y = 225}
+
+decorations_theme_variant="Dark"
+
+[font]
+size = 11
